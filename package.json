@@ -1,0 +1,20 @@
+{
+  "name": "ducanh-dashboard-widget",
+  "version": "1.0.0",
+  "description": "Plugin for Rank Match Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "Duc Anh",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.3.0"
+  },
+  "dependencies": {
+    "recharts": "^2.5.0",
+    "sass": "^1.62.1"
+  }
+}

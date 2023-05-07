@@ -1,0 +1,24 @@
+#ducanh-dashboard-widget {
+  .main-wrapper {
+    display: block;
+    border: solid 0.1rem #4f4f4f;
+
+    .title-wrapper {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 0.5rem;
+
+      select {
+        border-radius: 5px;
+      }
+    }
+
+    .chart-wrapper {
+      display: block;
+      border: solid 0.1rem #4f4f4f;
+      margin: 0.5rem;
+      overflow: hidden;
+    }
+  }
+}

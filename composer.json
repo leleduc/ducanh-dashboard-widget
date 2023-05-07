@@ -1,0 +1,18 @@
+{
+  "name": "ducanh/dashboar-widget",
+  "description": "A Plugin for Rank Match Challenge",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "ducanh\\dashboar-widget\\": "includes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "leducanh",
+      "email": "leleduc@gmail.com"
+    }
+  ],
+  "require": {}
+}
